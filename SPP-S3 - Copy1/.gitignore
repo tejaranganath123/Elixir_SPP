@@ -6,5 +6,5 @@
 files
 include
 testgit.txt
-platform.ini
+platformio.ini
 
