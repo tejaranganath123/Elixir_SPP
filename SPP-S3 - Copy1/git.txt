@@ -1,0 +1,5 @@
+go to the file,
+git init 
+git add file name 
+git commit -m "message"
+git push origin master
